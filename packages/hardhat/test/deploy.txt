@@ -1,0 +1,3 @@
+deploying "Greeter" (tx: 0xf08bad8787870821ecc16941322a48410b5d8bc39bac953224813bdb64c8d62c)...: deployed at 0x40d1b704F21B51b028bE440a28d8E4985d6F9Dc0 with 642741 gas
+deploying "Storage" (tx: 0x056408dfea815803f8af5ea4dd987fbf8760d549a31f915a105bd31dfdea86e1)...: deployed at 0x23aDD5BaA620e48793Dc3D7098ed6E429de11788 with 181777 gas
+deploying "SupportToken" (tx: 0x9c0d8ad02c9c0bcde37c734b34569df5579450441136cac5944d866bb69d4571)...: deployed at 0xF96d6F2997F1029e082813dABA0fB6fcd3b48499 with 1344367 gas
